@@ -7,8 +7,8 @@ Course: http://demowebshop.tricentis.com/
 
 
 **Task 2**  (Mobile App Testing)
- Based on the provided your checklist and test cases, create bug reports in YouTrack.
-Course: https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing)https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing
+ Based on the provided your checklist and test cases, create bug reports in YouTrack.  
+Course: https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing)https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing  
 [Solution]()  
 
 
