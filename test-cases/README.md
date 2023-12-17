@@ -6,5 +6,5 @@ Course: http://demowebshop.tricentis.com/
 
 
 **Task 2:**  (Api Testing)
-Write test cases for testing of collection methods for 4 methods from the "store" section.
+Write test cases for testing of collection methods for 4 methods from the "store" section.  
 Course: https://petstore.swagger.io/  
