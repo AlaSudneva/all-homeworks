@@ -2,7 +2,7 @@ As part of the homework, I have completed the following SQL queries.
 
 The content of the assignment:  
 
-
+**TASK 1**
 1. Retrieve the first name, last name, and patronus of all characters with a known patronus.  
 
 2. Retrieve the last names of characters whose last letter in the surname is 'e'.  
@@ -41,4 +41,20 @@ The content of the assignment:
 
 19. Use the CASE operator to describe the logic and display the name, last name, and a message based on the character's faculty.  
 
-20. Use a regular expression to find surnames that do not start with the letters H, L, or S and display them.  
+20. Use a regular expression to find surnames that do not start with the letters H, L, or S and display them.    
+
+
+**TASK 2**  
+1. Display the first name, last name of characters, and the title of the book they are associated with.  
+
+2. Display the first name, last name of characters, and the title of the book they are associated with, regardless of whether they have a book or not.  
+
+3. Display the title of the book and the name of the patronus, regardless of whether there is information about the book's owner in the table or not.  
+
+4. Display the first name, last name, age of characters, and the title of the book they are associated with, under the condition that all book owners must be older than 15 years.  
+
+5. Display the name of the character, the title of the book, the issue date, and the completion date, under the condition that the character is younger than 15 years old and their patronus is unknown.  
+
+6. Using a nested query, output the number of books where the end_date is greater than the end_date for Hermione.  
+
+7. Using a nested query, display the names of all patronuses whose owners are older than the age of the character with the patronus 'Unknown'.  
