@@ -41,7 +41,7 @@ The content of the assignment:
 
 19. Use the CASE operator to describe the logic and display the name, last name, and a message based on the character's faculty.  
 
-20. Use a regular expression to find surnames that do not start with the letters H, L, or S and display them.
+20. Use a regular expression to find surnames that do not start with the letters H, L, or S and display them.  
 [SOLUTION](https://github.com/AlaSudneva/all-homeworks/blob/main/SQL/task%201.%20DBTesting%20%20SQL.docx)
 
 
@@ -58,5 +58,5 @@ The content of the assignment:
 
 6. Using a nested query, output the number of books where the end_date is greater than the end_date for Hermione.  
 
-7. Using a nested query, display the names of all patronuses whose owners are older than the age of the character with the patronus 'Unknown'.
-[SOLUTION](https://github.com/AlaSudneva/all-homeworks/blob/main/SQL/task%202.%20DBTesting%20SQL.docx)
+7. Using a nested query, display the names of all patronuses whose owners are older than the age of the character with the patronus 'Unknown'.  
+[SOLUTION](https://github.com/AlaSudneva/all-homeworks/blob/main/SQL/task%202.%20DBTesting%20SQL.docx)  
